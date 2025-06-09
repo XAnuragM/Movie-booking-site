@@ -1,2 +1,20 @@
-# Movie-booking-site
-A clean and responsive movie ticket booking site built with HTML, CSS, and JavaScript. Users can select seats, view real-time totals in INR, and enjoy a smooth, interactive experience. Great for learning DOM handling and UI logic.
+## Movie Ticket Booking using HTML, CSS & JS
+
+# Project Breakdown
+
+- Display UI with movie select, screen, seats, legend & seat info
+- User can select a movie/price
+- User can select/deselect multiple seats
+- User can't select occupied seats
+- Number of seats and price will update based on selected movie and no. of seats
+- Save seats, movie and price to local storage so that UI is still populated on refresh
+
+# prerequisites
+
+    HTML
+    CSS
+    JS BASICS
+
+# New Learning
+
+    Local Storage in JAVASCRIPT
